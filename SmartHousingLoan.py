@@ -1,11 +1,11 @@
 __author__ = 'Wang Zhe'
 
-loan_years = 30
-loan = 40
-cash = 10
-financial_yearly_return_rate = 0.05
-lending_yearly_rate = 0.04067
-monthly_income = 0.5
+loan_years = 25
+loan = 160
+cash = 15
+financial_yearly_return_rate = 0.04
+lending_yearly_rate = 0.0371
+monthly_income = 1
 
 financial_monthly_return_rate = financial_yearly_return_rate / 12
 lending_monthly_rate = lending_yearly_rate / 12
